@@ -1,0 +1,35 @@
+# downlaod java jdk
+
+
+
+
+
+javac File.java              # bite code
+java File
+
+
+------------
+
+mvn clean
+mvn clean install
+
+mvn install
+mvn package                 # build
+
+mvn compile
+
+// compile - default scope
+
+mvn test
+ 
+
+
+
+
+------------
+// Lambda 
+// https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3
+// 21
+
+// ch
+// https://www.youtube.com/watch?v=-aDo8HDxWgQ&list=PLmCsXDGbJHdgVbtJWF53ERHRqCjw38szC&index=7&t=0s
